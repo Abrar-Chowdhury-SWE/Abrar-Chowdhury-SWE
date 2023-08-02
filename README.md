@@ -12,3 +12,5 @@
      (no, I'm not a car guy by any means). <br> <br>
 
    🎲Fun Fact: I've memorized the Checkers game pattern needed to win every single game that you start with! <br>
+
+   👀 Searching For: CS-related internship opportunities for summer 2024
