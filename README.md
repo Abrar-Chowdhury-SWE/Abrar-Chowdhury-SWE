@@ -13,4 +13,4 @@
 
    🎲Fun Fact: I've memorized the Checkers game pattern needed to win every single game that you start with! <br> <br>
 
-   👀 Searching For CS-related internship opportunities for summer 2024!
+   👀 Searching for CS-related internship opportunities for summer 2024!
