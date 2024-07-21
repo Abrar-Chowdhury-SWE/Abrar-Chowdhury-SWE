@@ -3,7 +3,7 @@
 <h1>👋About Me Section</h1>
    Hi, my name is Abrar Chowdhury! <br> <br>
 
-   👨‍🎓 I'm in my third year currently as a full-time student majoring in Computer Science with a minor in Data Science. <br> 
+   👨‍🎓 I'm in my fourth year at Rutgers University currently as a full-time student majoring in Computer Science with a minor in Data Science. <br> 
       Focusing mostly on Software Engineering <br> <br>
 
    💻Currently Learning: C, C++ <br> <br>
