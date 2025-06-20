@@ -3,7 +3,7 @@
 <h1>👋 About Me</h1>
 Hi, my name is Abrar Chowdhury! <br><br>
 
-👨‍💻 I'm a recent grad from Rutgers University and I earned my degree in Computer Science with a minor in Data Science! I focus primarily on software engineering and full-stack development — especially building robust backend systems and clean, scalable interfaces.<br><br>
+👨‍💻 I'm a recent grad from Rutgers University, and I earned my degree in Computer Science with a minor in Data Science! I focus primarily on software engineering and full-stack development, especially building robust backend systems and clean, scalable interfaces.<br><br>
 
 🛠️ Recently, I interned at Orokii as a Full Stack Software Engineer, where I worked with React, Node.js, and Firebase to build a cryptocurrency payment gateway platform. I’m also currently working as an AI Code Reviewer at Outlier.ai, evaluating LLM-generated code across client projects in Python and Java.<br><br>
 
